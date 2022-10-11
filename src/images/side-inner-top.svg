@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 860 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-293.734,-1979.38)">
+        <g id="BUTTON-INNER-FINAL" serif:id="BUTTON INNER FINAL" transform="matrix(0.711864,0,0,0.0320734,-731.185,1915.44)">
+            <rect x="1439.77" y="1993.53" width="1208.1" height="748.283" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="1439.77" y="1993.53" width="1208.1" height="748.283"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g id="BUTTON-MENU-MAIN" serif:id="BUTTON MENU MAIN" transform="matrix(1.40476,0,0,31.1785,-582.78,-60187.5)">
+                    <clipPath id="_clip2">
+                        <rect x="412.24" y="1993.94" width="2925.46" height="418.023"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip2)">
+                        <g transform="matrix(1,-0,-0,1,1439.78,1994.36)">
+                            <use xlink:href="#_Image3" x="29" y="0" width="812px" height="24px"/>
+                        </g>
+                        <g transform="matrix(1,-0,-0,1,1439.78,1994.36)">
+                            <use xlink:href="#_Image4" x="0" y="9.556" width="860px" height="14.661px" transform="matrix(1,0,0,0.977373,0,0)"/>
+                        </g>
+                        <g transform="matrix(0.0377617,0,0,0.280774,2122.75,1800.94)">
+                            <g transform="matrix(26.4819,-0,-0,3.56159,-18086.2,688.865)">
+                                <use xlink:href="#_Image5" x="704.068" y="0" width="30.334px" height="24px" transform="matrix(0.978503,0,0,1,0,0)"/>
+                            </g>
+                        </g>
+                        <g transform="matrix(0.0377617,0,0,0.280774,1580.75,1800.94)">
+                            <g transform="matrix(26.4819,-0,-0,3.56159,-3733.03,688.865)">
+                                <use xlink:href="#_Image5" x="150.161" y="0" width="30.334px" height="24px" transform="matrix(0.978503,0,0,1,0,0)"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <image id="_Image3" width="812px" height="24px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAywAAAAYCAYAAAAYjXm7AAAACXBIWXMAAA7EAAAOxAGVKw4bAAADa0lEQVR4nO3bT0vbcBzH8W+SRtqUxkJTnBXEgwePPgDZbYPtKDsH8ryE3nbwNpi7ukcwHJsXhwfxHxYxTItNK212GDrL/FM1v/aX5P2CkOMnhQR+70MNUSgIAntmZmZjdnb2jeu6YlmWyjkREYnjeOiOyTMMY+iuUrfblTAMezs7O6tra2sbygcBANCE7/vLS0tLXz3Pmy4Wi8r3OHPpaVznrjiO5eLiQk5OTn4eHBysNJvN36q2lP2SIAjser3+uVKpvHUcR/r9vqqpG4Zh3FzQSxzHN5dKlmXJ1dWVRFHU3dvbW202m1+UDgIAoAHf95cXFhY2S6VSdWpqSvm5izOXvm6H5DjOXVEUSbvd/rG7u7uyvr5+rmJHyVsWBIFdLpc/VSqVd71eT87Pz6XVakmv11MxN8Q0TTFNU/kORnf9wQwGA+VbruuK53kyPT0thmF0j46OiBYAQKb5vr88Nze3aRhGtd1uy+npqYRhqHzXNE2iRUPXZy7VsVIoFMTzPKlWq1IsFiWKou+Hh4evVURL4m/Y7VjpdDpydnYm+/v70u12k54C7lSr1aTRaEitViNaAACZdjtWwjCU4+NjabVak34s5IRt29JoNKRer0u5XFYWLYn+qYRYgQ46nY70+30pFApSKpUKrut+WFxc/La1tfVr0s8GAEBSiBVM2mAwkMvLS7EsS2zbFsdxXjmO835+fv7j9vZ2YgGQWLAQK9AJ0QIAyDJiBboYR7QkEizECnREtAAAsohYgW5UR8uLg4VYgc6IFgBAlhAr0JXKaHlRsBArSAOiBQCQBcQKdKcqWp4dLMQK0oRoAQCkGbGCtFARLc8KFmIFaUS0AADSiFhB2iQdLU8OFmIFaUa0AADShFhBWiUZLU8KFmIFWUC0AADSgFhB2iUVLSMHC7GCLCFaAAA6I1aQFUlEy0jBQqwgi4gWAICOiBVkzUuj5dFgIVaQZUQLAEAnxAqy6iXR8mCwECvIA6IFAKADYgVZ99xouTdYiBXkCdECAJgkYgV58ZxouTNYiBXkEdECAJgEYgV589Ro+S9YiBXkGdECABgnYgV59ZRoGQoWYgUgWgAA40GsIO9GjZabYCFWgH+IFgCASsQK8Nco0WKJECvAXYgWAIAKxAow7LFosYgV4H5ECwAgScQKcLeHouUP5I9mncX9aEQAAAAASUVORK5CYII="/>
+        <image id="_Image4" width="860px" height="15px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA1wAAAAPCAYAAADwF84AAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABGUlEQVR4nO3dwWkCQQCF4TdLXAuwCsFGLMNGvFlgqvCq4oKIOrlEMOJeYjbB8H23YS7v+sPAlNVq9b5erwMAAMDPGI/H2e/3KfP5vJZSUmv9600AAAD/QtM06bouzXa7Ta01pZS/3gQAAPDyrrG12+3SdF0X0QUAAPC829g6Ho9pzudzRBcAAMBz7mMrSZokEV0AAADf9yi2ks/gSkQXAADAd/TFVpK83R6u0ZUkk8kktdZcLpffWwoAAPBC2rbNZrN5GFvJXXAlX6NrsVhkOp0OvxIAAOAFLZfL3thKkjKbzR5+wDUajdK2raeFAAAAPU6nUw6HQ+9903sDAADAUwQXAADAQAQXAADAQAQXAADAQAQXAADAQD4Aag2UpdCuc0kAAAAASUVORK5CYII="/>
+        <image id="_Image5" width="31px" height="24px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAYCAYAAAACqyaBAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAXElEQVRIiWNcfurUf4YBAixvv38fKLsZWPZtvjtwlr96eG/ALGcaMJtHLR+RlrPYhZsPnOWX9j8fMMtHbpyPWj7yLGccyMYEo2143cC1ZP7+/jlQdo/gBDdyLQcAOlQWxu7hLtwAAAAASUVORK5CYII="/>
+    </defs>
+</svg>

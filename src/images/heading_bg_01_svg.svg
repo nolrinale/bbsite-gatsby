@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 560 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-5855.22,-4865.13)">
+        <g transform="matrix(0.337426,0,0,0.0634082,3870.69,4587.41)">
+            <rect x="5881.4" y="4916.18" width="1659.62" height="15.771" style="fill:rgb(136,136,136);"/>
+        </g>
+        <g transform="matrix(0.337426,0,0,0.0634082,3870.69,4589.41)">
+            <rect x="5881.4" y="4916.18" width="1659.62" height="15.771" style="fill:rgb(136,136,136);"/>
+        </g>
+        <g transform="matrix(2.49727,0,0,2.49727,-8768.49,-7335.86)">
+            <g transform="matrix(2.49942e-18,0.0408187,-0.0408187,2.49942e-18,6027.13,4868.17)">
+                <path d="M668.888,4023.69L743.146,4066.57L743.146,4152.31L668.888,4195.18L594.631,4152.31L594.631,4066.57L668.888,4023.69Z" style="fill:rgb(96,96,96);"/>
+            </g>
+            <g transform="matrix(2.49942e-18,0.0408187,-0.0408187,2.49942e-18,6032.94,4864.71)">
+                <path d="M668.888,4023.69L743.146,4066.57L743.146,4152.31L668.888,4195.18L594.631,4152.31L594.631,4066.57L668.888,4023.69Z" style="fill:rgb(96,96,96);"/>
+            </g>
+            <g transform="matrix(2.49942e-18,0.0408187,-0.0408187,2.49942e-18,6027.13,4861.46)">
+                <path d="M668.888,4023.69L743.146,4066.57L743.146,4152.31L668.888,4195.18L594.631,4152.31L594.631,4066.57L668.888,4023.69Z" style="fill:rgb(96,96,96);"/>
+            </g>
+        </g>
+        <g transform="matrix(0.649415,0,-0.2533,0.649415,3465.49,1724.1)">
+            <text x="6166.44px" y="4886.44px" style="font-family:'pso_font', sans-serif;font-size:19.248px;fill:rgb(136,136,136);fill-opacity:0.25;">more information</text>
+        </g>
+        <g transform="matrix(0.869596,0,-1.38778e-17,0.869596,529.72,639.218)">
+            <text x="6166.44px" y="4886.44px" style="font-family:'pso_font', sans-serif;font-size:23.957px;fill:rgb(136,136,136);fill-opacity:0.15;">heading area</text>
+        </g>
+    </g>
+</svg>
